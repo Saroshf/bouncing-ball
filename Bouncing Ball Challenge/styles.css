@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+canvas {
+    border: 1px solid grey;
+}
+
+h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
